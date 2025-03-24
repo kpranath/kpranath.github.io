@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "AI Engineer and Ex-Full stack developer skilled in Python, JavaScript, Databases and Web-development. I am enthusiastic about delivering feasible and innovative solution and tackle the challenges.",
+      "description": "I am Keshava Pranath. I am  an AI Engineer and Ex-Full stack developer skilled in Python, JavaScript, Databases and Web-development. I am enthusiastic about delivering feasible and innovative solution and tackle the challenges.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,17 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Real-Time Object Detection",
+        "startDate": "2024",
+        "description": "Real-Time Object detection and Tracking for vehicles on the videos using Computer Vision and Deep Learning. A YOLOv8 model used to detect objects in the frame and DeepSort model used to track the detected object. Both models fine-tuned to detect and track multiple objects in the frame. NVIDIA TensorRT used to optimise the performance for higher frame-rates and perform better with different occulation and varying light conditions.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/RTOD/p1.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
