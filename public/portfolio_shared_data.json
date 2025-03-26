@@ -9,6 +9,11 @@
           "class": "fab fa-github"
         },
         {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/kpranath/",
+          "class": "fab fa-linkedin"
+        },
+        {
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"

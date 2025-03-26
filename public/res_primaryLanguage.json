@@ -9,6 +9,37 @@
         "experience": "Experience"
       }
     },
+    "education": [
+      {
+        "institution": "University at Bufalo",
+        "title": "Masters in Computer Science",
+        "years": "2023 - 2024",
+        "mainTech": [
+          "Artificial Intelligence/ Machine Learning"
+        ],
+        "technologies": [
+          "Introduction to Machine Learning", 
+          "Deep Learning", 
+          "Data Intensive Computing", 
+          "Computer Vision",
+          "Data Model Query Language"
+        ]
+      },
+      {
+        "institution": "Ramaiah Institute Of Technology",
+        "title": "Bachelor of Engineer",
+        "years": "2016 - 2020",
+        "mainTech": [
+          "Computer Science"
+        ],
+        "technologies": [
+          "Web Technologies", 
+          "Data Analytics",
+          "Database Systems", 
+          "Software Engineering"
+        ]
+      }
+    ],
     "projects": [
       {
         "title": "Real-Time Object Detection using YOLOv8 and DeepSORT",
@@ -74,37 +105,48 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Airbus India",
+        "title": "Software Engineer",
+        "years": "09.2020 - 08.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "Python",
+          "ReactJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "NestJS",
+          "PHP",
+          "MySQL"
         ]
       },
       {
-        "company": "Serros Solutions",
+        "company": "Comviva Technologies",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "01.2020 - 05.2020",
         "mainTech": [
-          "Angular 7/8"
+          
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "ReactJS",
+          "NodeJS",
+          "MySQL",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "The University of Transdisciplinary Health Sciences and Technology",
+        "title": "Intern",
+        "years": "04.2019 - 06.2019",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "AngularJS",
+          "NodeJS",
+          "MySQL",
           "JavaScript",
-          "DHTMLX Gantt"
+          "AWS"
         ]
       }
     ]

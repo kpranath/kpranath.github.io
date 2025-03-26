@@ -244,7 +244,7 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
+	background-color: #AE944F !important;
 	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -426,3 +426,11 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+.vertical-timeline-element--education .vertical-timeline-element-content {
+	border-top: 3px solid #e9b949;
+  }
+  
+.vertical-timeline-element--education .vertical-timeline-element-icon {
+	background: #e9b949 !important;
+  }
