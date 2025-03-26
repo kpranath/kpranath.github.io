@@ -65,6 +65,13 @@ class Education extends Component {
 
     return (
       <section id="education" className="pb-5">
+        <style>
+          {`
+          .vertical-timeline::before {
+          background: #888 !important
+          }
+          `}
+        </style>
         <div className="col-md-12 mx-auto">
           <div className="col-md-12">
             <h1 className="section-title" style={{ color: "black" }}>
