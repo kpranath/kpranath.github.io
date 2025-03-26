@@ -17,7 +17,7 @@
         "images": [
           "images/portfolio/RTOD/p1.jpg"
         ],
-        "url": "",
+        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -26,12 +26,11 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Traffic Decongestion using Reinforcement Learning",
+        "startDate": "2020",
+        "description": "App that help identify and prevent traffic congestion in the city of Bangalore. Vehicles run as agent on the environment(map of Bangalore) working with the traffic density data frfom the TOMTOM API to provide the best route to prevent the congestion.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Traffic/p1.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -42,6 +41,10 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
