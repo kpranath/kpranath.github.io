@@ -58,6 +58,29 @@
         ]
       },
       {
+        "title": "AI-Powered Image Colorization Agent",
+        "startDate": "2024",
+        "description": "CNN-based AI agent that colorizes black-and-white images using deep learning. A React app that alllows user to feed the image into the model using a flask API and renders the color image as response.",
+        "images": [
+          "images/portfolio/colorize/p1.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-flask-original-wordmark colored",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
         "title": "Traffic Decongestion using Reinforcement Learning",
         "startDate": "2020",
         "description": "App that help identify and prevent traffic congestion in the city of Bangalore. Vehicles run as agent on the environment(map of Bangalore) working with the traffic density data frfom the TOMTOM API to provide the best route to prevent the congestion.",
@@ -105,6 +128,22 @@
       }
     ],
     "experience": [
+      {
+        "company": "University At Buffalo - Tesserae Project",
+        "title": "Full-Stack Developer",
+        "years": "01.2025 - Present",
+        "mainTech": [
+          
+        ],
+        "technologies": [
+          "Python",
+          "ReactJS",
+          "JavaScript",
+          "MySQL",
+          "Flask",
+          "Linux"
+        ]
+      },
       {
         "company": "Airbus India",
         "title": "Software Engineer",
