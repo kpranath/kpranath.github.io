@@ -1,9 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "I am Keshava Pranath. 
-      I am  an AI Engineer and Software Engineer skilled in Python, JavaScript, Databases and Web-development. 
-      My interests lie in finding simple yet efficient solutions ways to tackle any instance. I am like an outdoor cat - curious to explore and roam around in my leisure. I love adventure activities and I love sports. I spend my weekends playing Crikciet.",
+      "description": "I am Keshava Pranath. I am  an AI Engineer and Software Engineer skilled in Python, JavaScript, Databases and Web-development. My interests lie in finding simple yet efficient solutions ways to tackle any instance. I am like an outdoor cat - curious to explore and roam around in my leisure. I love adventure activities and I love sports. I spend my weekends playing Crikciet.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
